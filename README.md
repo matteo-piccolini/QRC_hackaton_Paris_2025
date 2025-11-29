@@ -1,5 +1,5 @@
-# QRC_hackaton_Paris_2025
-Contains the project presented at the Qiskit Fall Fest Paris-Saclay 2025 for the Quandela - track 2 hackaton
+# QRC_hackathon_Paris_2025
+Contains the project presented at the Qiskit Fall Fest Paris-Saclay 2025 for the Quandela - track 2 hackathon
 # Quantum Reservoir Computing (QRC) for Swaption Price Forecasting
 
 This project implements a **Quantum Reservoir Computing (QRC)** model, based on a Transverse-Field Ising Hamiltonian, to predict the principal components (PC) of financial swaption prices. The QRC is applied to a time-series forecasting problem with an autoregressive structure, following the methodology described in the reference paper: [arXiv:2505.13933](https://arxiv.org/abs/2505.13933).
