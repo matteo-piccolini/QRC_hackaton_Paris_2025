@@ -58,7 +58,7 @@ For execution on an actual quantum device, set "simulator = False" -> the workfl
     git clone [YOUR_REPOSITORY_URL]
     cd [YOUR_REPOSITORY_NAME]
     ```
-2.  **Open the notebook:** Launch `hackaton_Paris_2025.ipynb` in a Jupyter environment.
+2.  **Open the notebook:** Launch `hackathon_Paris_2025.ipynb` in a Jupyter environment.
 3.  **Data Loading:** Ensure the financial dataset (e.g., `Dataset_Simulated_Price_swaption.xlsx`) is available in the specified path.
 4.  **Configuration:** In the backend selection cell, configure your user-defined parameters ($n_2, \nu, t$ and backend choice (Simulator or Real Device).
 5.  **Run All:** Execute all cells sequentially. The notebook performs:
